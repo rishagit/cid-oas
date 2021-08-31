@@ -1,6 +1,6 @@
 export * from './components';
 export {
-  MiddlePanel,
+  MiddlePanel, 
   Row,
   RightPanel,
   Section,
