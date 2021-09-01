@@ -6,7 +6,7 @@ servers:
     description: https
 info:
   version: 1.0.0
-  title: Neustar Certified Caller Id Authentication & Verification Service
+  title: Neustar ABC Certified Caller Id Authentication & Verification Service
   # termsOfService: 'https://team.neustar'
   # contact:
   #   name: API Support
