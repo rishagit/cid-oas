@@ -11,13 +11,6 @@ object-assign
 */
 
 /*!
- * ReDoc - OpenAPI/Swagger-generated API Reference Documentation
- * -------------------------------------------------------------
- *   Version: "2.0.0-rc.56"
- *   Repo: https://github.com/Redocly/redoc
- */
-
-/*!
  * Stickyfill -- `position: sticky` polyfill
  * v. 1.1.1 | https://github.com/wilddeer/stickyfill
  * Copyright Oleg Korsunsky | http://wd.dizaina.net/
